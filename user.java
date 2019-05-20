@@ -1,3 +1,4 @@
 Hello 
 I am fine
-good morning
+good mornnig
+how are you
